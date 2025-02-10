@@ -1,6 +1,7 @@
 # 🚀 TrilhasD1
 
 🛠 Tecnologias Utilizadas
+
 JavaScript
 
 ## 📚 Atividade
