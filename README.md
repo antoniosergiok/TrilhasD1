@@ -20,6 +20,7 @@ JavaScript
 13. Escreva um código que calcule a área de um círculo. Utilize uma função para realizar o cálculo. A função deve receber o raio como parâmetro e retornar a área.
 14. Comente seu código explicando o que cada parte faz. Crie um programa simples que calcule a soma de dois números e imprima o resultado.
 15. Refatore o código abaixo para ser mais legível, usando boas práticas de nomenclatura e separando o código em funções:
+
 x = 10
 y = 20
 z = x+y
